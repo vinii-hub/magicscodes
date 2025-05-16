@@ -1,1 +1,3 @@
 # magicscodes
+
+## everybody can read 
